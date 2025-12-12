@@ -30,5 +30,5 @@ console.log(secondBurger.maker.restaurant.name); // ?
 // Soluzione 5 oggetti in memoria: 
 console.log("Chef Hyur")
 console.log("Chef Hyur")
-console.log("Hyur's Burgers")
+console.log("Hyur's II")
 console.log("Hyur's II")

@@ -14,6 +14,6 @@ console.log(secondBurger.ingredients[0]); // ?
 // Senza lanciare il codice, riesci a prevedere cosa viene stampato in console?
 // Quanti oggetti sono stati creati in memoria durante l'esecuzione di questo codice?
 
-//Soluzione: In questo caso vengono creati due oggetti differenti, ma ingredients è condiviso
-console.log(name: "Cheese Burger", weight: 250, ingredients: ["Salad", "Meat", "Bread", "Tomato"])
-console.log(name: "Cheese Burger", weight: 250, ingredients: ["Salad", "Meat", "Bread", "Tomato"])
+//Soluzione: In questo caso vengono creati 3 oggetti differenti, ma ingredients è condiviso
+console.log("Salad")
+console.log("Salad")
